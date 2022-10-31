@@ -1,0 +1,28 @@
+
+modLoader="javafml"
+loaderVersion="[39,)"
+license="LGPLv3"
+[[mods]]
+modId="medieval_decorations"
+version="1.0"
+displayName="Ancient Ruins"
+logoFile="ancient_ruins_logo.png"
+authors="ZIN"
+description='''
+
+"Ancient Ruins" is a Minecraft Forge mod that adds randomly generated structures to the game. The aim of the mod is to make exploration more interesting and mysterious, and to give Minecraft a deeper and darker history! In the mod you can find ancient structures from the beginning of time, old mossy castles, abandoned houses, desolated villages, and much more! There's a plenty to discover, so make sure to pack enough bread for your journey!
+
+'''
+[[dependencies.ancient_ruins]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.ancient_ruins]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

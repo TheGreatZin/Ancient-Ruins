@@ -5,7 +5,7 @@
 
 # Ancient Ruins   
 
-Owner - "[**The Great ZIN**](https://www.curseforge.com/members/the_great_zin/projects)"  
+Owner - [**The Great ZIN**](https://www.curseforge.com/members/the_great_zin/projects)
     
 </div>
 

@@ -3,7 +3,7 @@
 </sup>
 <div align="center">
 
-# Medieval Decorations   
+# Ancient Ruins   
 
 Owner - "[**The Great ZIN**](https://www.curseforge.com/members/the_great_zin/projects)"  
     
